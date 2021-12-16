@@ -448,6 +448,7 @@ tr:nth-child(even) {
 .table.table-bordered th {
   text-align: center;
 }
+<<<<<<<< HEAD:styles.a8c61002cdf15c1e86d2.css
 .custom-clock {
   direction: ltr;
   color: #19abbb !important;
@@ -461,6 +462,8 @@ tr:nth-child(even) {
 .custom-clock .timepicker-button {
   color: #19abbb !important;
 }
+========
+>>>>>>>> d7124682fa5bf1d51681e1d0bc78182f00c1490c:styles.601438db6adb8f3fe426.css
 .table-wrapper {
   min-width: 1000px;
   background: #fff;
