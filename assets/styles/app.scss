@@ -16,8 +16,8 @@ File: scss
  *	7. Widgets
  *	8. Custom Templates
  */
-/******************* 
-Global Styles 
+/*******************
+Global Styles
 *******************/
 
 * {
@@ -610,8 +610,9 @@ Background Colors
 }
 
 .bg-danger {
-  background-color: $danger !important;
+  background-color: #cc647d !important;
 }
+
 html body {
   .bg-megna {
     background-color: $megna;
