@@ -3248,7 +3248,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\mdiaz\Documents\BACKUP Mdiaz\Desarrollo Uninorte\estarbienFRONT\estarbienFront\src\polyfills.ts */"./src/polyfills.ts");
+module.exports = __webpack_require__(/*! /Users/kristell/Library/Mobile Documents/com~apple~CloudDocs/Documents/Martin/estarbienFront/src/polyfills.ts */"./src/polyfills.ts");
 
 
 /***/ })
